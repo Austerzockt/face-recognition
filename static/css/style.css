@@ -1,0 +1,11 @@
+img {
+  margin: 0;
+  width: fit-content;
+  height: fit-content;
+}
+body {
+  background-color: burlywood;
+}
+h2 {
+  background-color: aqua;
+}

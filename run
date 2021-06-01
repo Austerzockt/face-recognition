@@ -1,0 +1,2 @@
+#!/usr/bin/sh
+screen -S flask-web python3 webstreaming.py --ip 0.0.0.0 --port 8000
